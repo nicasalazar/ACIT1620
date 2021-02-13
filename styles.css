@@ -1,0 +1,74 @@
+body{
+    background-color: papayawhip;
+    color: lightpink;
+    font-family: sans-serif;
+    text-align: left;
+    font-size: 20px;
+
+}
+
+
+h1{
+    margin-top: 0;
+    background-color: pink;
+    color: white;
+    font-family: serif;
+    font-size: 30px;
+    background-position: 2px 13px;
+    border: 3px solid darkseagreen;
+    border-style: double;
+    text-align: center;
+    
+
+}
+
+h2{
+    background-color: papayawhip;
+    color: plum;
+    font-family: Georgia;
+    font-size: 25px;
+    text-align: left;
+    margin-top: 30px;
+    background-position: 2px 10px;
+
+}
+
+a:link{
+    font-weight: bold;
+    color: darkseagreen;
+    text-decoration: none;
+    
+}
+
+a:hover{
+    color:pink;
+    font-size: 1em;
+}
+
+a:active{
+    color: plum;
+}
+
+a:visited {
+    font-weight: bold;
+    color: hotpink;
+    text-decoration: none;
+      
+}
+
+nav {
+    border-radius:40px;
+    border-style: double;
+    background-color:snow;
+    color: plum;
+    width: 100%;
+    padding:6px;
+
+}
+
+.contentimage {
+    float: right;
+    padding: 7px;
+    border: 1px solid #eee;
+    margin: 0 0 20px 20px;
+}
