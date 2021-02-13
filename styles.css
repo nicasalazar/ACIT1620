@@ -1,6 +1,6 @@
 body{
-    background-color: papayawhip;
-    color: lightpink;
+    background-color: #E5DADA;
+    color: #02040F;
     font-family: sans-serif;
     text-align: left;
     font-size: 20px;
@@ -10,12 +10,12 @@ body{
 
 h1{
     margin-top: 0;
-    background-color: pink;
-    color: white;
-    font-family: serif;
+    background-color: #e59500;
+    color:#02040F;
+    font-family: 'Pacifico', cursive;
     font-size: 30px;
     background-position: 2px 13px;
-    border: 3px solid darkseagreen;
+    border: 3px solid #002642;
     border-style: double;
     text-align: center;
     
@@ -23,8 +23,8 @@ h1{
 }
 
 h2{
-    background-color: papayawhip;
-    color: plum;
+    background-color: #E5DADA;
+    color: #02040F;
     font-family: Georgia;
     font-size: 25px;
     text-align: left;
@@ -35,23 +35,23 @@ h2{
 
 a:link{
     font-weight: bold;
-    color: darkseagreen;
+    color: #002642;
     text-decoration: none;
     
 }
 
 a:hover{
-    color:pink;
+    color: #e59500;;
     font-size: 1em;
 }
 
 a:active{
-    color: plum;
+    color: #02040F;
 }
 
 a:visited {
     font-weight: bold;
-    color: hotpink;
+    color: #02040F;
     text-decoration: none;
       
 }
@@ -59,8 +59,8 @@ a:visited {
 nav {
     border-radius:40px;
     border-style: double;
-    background-color:snow;
-    color: plum;
+    background-color: #e59500;
+    color: #002642;
     width: 100%;
     padding:6px;
 
@@ -69,6 +69,5 @@ nav {
 .contentimage {
     float: right;
     padding: 7px;
-    border: 1px solid #eee;
     margin: 0 0 20px 20px;
 }
